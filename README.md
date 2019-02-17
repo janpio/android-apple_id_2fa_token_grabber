@@ -1,8 +1,8 @@
-# android-apple_id_2fa_token_grabber
+# android-sms_forwarder-app-template
 
 This is an Android app template that can read received SMS to extract and forward an Apple ID 2FA token to a specified API endpoint.
 
-## ⚠️ Caution ⚠️
+## ⚠️ Caution
 
 This app template is not meant to be published to Google Play Store. It is to be used as a base to develop a single use, personal app to solve a specific problem only.
 
